@@ -1,107 +1,155 @@
-<h1 align="center">Hi 👋, I'm Murugavel J</h1>
+<div align="center">
 
-<p align="center">
-<b>Edge AI Engineer · AI/ML Engineer · Cloud & MLOps Enthusiast</b>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=220&section=header&text=Murugavel%20J&fontSize=60&fontColor=38bdf8&animation=fadeIn&fontAlignY=35&desc=Edge%20AI%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20MLOps%20Enthusiast&descAlignY=55&descSize=18&descColor=94a3b8" width="100%"/>
 
-<p align="center">
-<i>Integrated M.Tech in Artificial Intelligence · VIT Bhopal (2023–2028)</i>
-</p>
+<br/>
 
-<p align="center">
-<a href="mailto:jmurugavel778@gmail.com"><img src="https://img.shields.io/badge/Email-jmurugavel778%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://github.com/murugavel03"><img src="https://img.shields.io/badge/GitHub-murugavel03-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Running+LLMs+on+the+edge+%F0%9F%94%A9;NVIDIA+Jetson+%7C+ESP32-S3+%7C+On-Device+AI;Building+offline-first%2C+privacy-first+AI;VIT+Bhopal+%E2%80%94+Integrated+M.Tech+AI" alt="Typing SVG" />
+</a>
 
----
+<br/><br/>
 
-## 👤 About Me
+<a href="mailto:jmurugavel778@gmail.com"><img src="https://img.shields.io/badge/-jmurugavel778%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=38bdf8"></a>
+<a href="https://github.com/murugavel03"><img src="https://img.shields.io/badge/-murugavel03-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8"></a>
+<img src="https://komarev.com/ghpvc/?username=murugavel03&label=Profile+Views&color=0f172a&style=for-the-badge" alt="views"/>
 
-```python
-murugavel = {
-    "role"        : "Edge AI Engineer | AI/ML Engineer | MLOps Enthusiast",
-    "university"  : "VIT Bhopal — Integrated M.Tech AI (2023–2028)",
-    "focus"       : "Running LLMs locally on edge devices — phones, Jetson, ESP32-S3, laptops",
-    "building"    : "Offline/local-first AI systems that don't depend on the cloud",
-    "seeking"     : ["Edge AI", "AI/ML Engineering", "MLOps"],
-    "contact"     : "jmurugavel778@gmail.com",
-}
-```
+</div>
 
----
+<br/>
 
-## 🚀 Major Achievements
+## 🧠 About Me
 
-- 📱 **On-device LLM inference on mobile** — Deployed and ran a local LLM directly on a smartphone, achieving fully offline inference with no cloud dependency.
-- 🖥️ **NVIDIA Jetson as an edge inference server** — Configured an NVIDIA Jetson as a local server to handle LLM inference requests for connected edge devices, enabling low-latency, offline AI processing at the edge.
-- 💻 **Local LLM server for a local AI assistant** — Set up a self-hosted local LLM server on a laptop to power a fully local AI assistant, keeping the entire pipeline offline and privacy-preserving.
-- 🔩 **Edge AI on ESP32-S3 (UNIHIKER K10)** — Deployed local LLM/AI processing on an ESP32-S3-based UNIHIKER K10 board, bringing lightweight AI inference to a microcontroller-class device.
-- 🏥 **VIT Bhopal Health Hackathon 2026** (in collaboration with **Johns Hopkins University, USA**) — Selected to advance before the final round; did not place in the top 10 in the final results.
-- 🌐 **Local LAN chat & media sharing website** — Built a website running entirely over the local network for real-time chat plus photo/video file sharing, with no internet dependency.
+<img align="right" width="270" src="https://raw.githubusercontent.com/OleksandrKvl/OleksandrKvl/main/octocat.gif" alt="coding gif"/>
+
+- 🎓 Integrated M.Tech in **Artificial Intelligence** @ VIT Bhopal *(2023–2028)* — CGPA `8.15/10`
+- ⚡ Currently interning as **Edge AI Intern** @ Trilo Automation Pvt. Ltd.
+- 🔩 Obsessed with squeezing LLMs and vision models onto tiny, offline hardware
+- 🩻 Working across **Computer Vision, OCR, Deep Learning & Embedded AI**
+- 🌱 Exploring **Cloud (AWS)** and **MLOps** to take edge projects full-stack
+- 📍 Tiruvannamalai, Tamil Nadu, India
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## 🏆 Achievements
 
-### AI/ML
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+### 🏥 VIT Bhopal Health Hackathon 2026
+In collaboration with **Johns Hopkins University (USA)** — advanced to the final round.
 
-### Edge & Cloud
+</td>
+<td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white">
-<img src="https://img.shields.io/badge/ESP32--S3-E7352C?style=flat-square&logo=espressif&logoColor=white">
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
-<img src="https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white">
+### 🎓 NPTEL Certifications
+Cloud Computing & Soft Computing — certified coursework.
 
-### Languages & Tools
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
+</td>
+</tr>
+</table>
 
 ---
 
-## 💡 Featured Projects
+## 🚀 Featured Builds
 
-- **Fake Review Detector** — Fake review detection system built with Python, Scikit-learn, and NLP; preprocessing, feature engineering, and classification, deployed with Gradio.
-- **Skin Disease Prediction** (Hackathon Team Project) — Trained a skin disease prediction model in PyTorch, with data preprocessing and model optimization.
-- **AI-Powered Adaptive Cybersecurity Ecosystem** (Team Project) — Built a CNN-based malware detection system that converts malware binaries into grayscale images, trained with PyTorch for threat classification.
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🎙️ Edge Voice Assistant
+`Python` `Ollama` `ESP32-S3`
+
+Fully local voice assistant on **UniHiker K10 (ESP32-S3)** talking over LAN to an Ollama-hosted LLM — full offline STT → LLM → TTS loop, with live RGB feedback.
+
+</td>
+<td width="33%" valign="top">
+
+### 🩺 Skin Disease Prediction
+`Python` `PyTorch`
+
+Hackathon-built CV model for skin disease classification — dataset preprocessing, tuning, evaluation.
+
+</td>
+<td width="33%" valign="top">
+
+### 🛡️ Adaptive Cybersecurity
+`Python` `PyTorch` `CNN`
+
+Malware detection by turning binaries into grayscale images and classifying them with a CNN.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Arsenal
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=murugavel03&show_icons=true&theme=tokyonight" alt="Murugavel's GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=murugavel03&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+**AI / ML**
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,py,numpy" />
+
+<br/><br/>
+
+**Edge & Embedded**
+<br/>
+<img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/ESP32--S3-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/Edge_Impulse-1FC1C3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white"/>
+<img src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white"/>
+
+<br/><br/>
+
+**Cloud — AWS**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws" />
+
+<br/><br/>
+
+**Languages & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=py,cpp,java,git,vscode,jupyter" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white"/>
+
+</div>
 
 ---
 
-## 🌐 Let's Connect
+## 📊 GitHub Analytics
 
-<p align="center">
-<a href="mailto:jmurugavel778@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://github.com/murugavel03"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=murugavel03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=murugavel03&theme=tokyonight&hide_border=true&background=0f172a&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=murugavel03&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=38bdf8&line=38bdf8&point=cbd5e1" width="100%"/>
+
+</div>
 
 ---
 
-<p align="center"><i>"The edge is where intelligence meets the real world."</i></p>
+<div align="center">
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=murugavel03&color=orange&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
+### 💬 Let's build something at the edge
+
+<a href="mailto:jmurugavel778@gmail.com"><img src="https://img.shields.io/badge/-Email_Me-0f172a?style=for-the-badge&logo=gmail&logoColor=38bdf8"></a>
+<a href="https://github.com/murugavel03"><img src="https://img.shields.io/badge/-Follow_on_GitHub-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8"></a>
+
+<br/><br/>
+
+<i>"The edge is where intelligence meets the real world."</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer" width="100%"/>
+
+</div>
