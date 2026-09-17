@@ -22,8 +22,8 @@
 
 <img align="right" width="270" src="https://raw.githubusercontent.com/OleksandrKvl/OleksandrKvl/main/octocat.gif" alt="coding gif"/>
 
-- 🎓 Integrated M.Tech in **Artificial Intelligence** @ VIT Bhopal *(2023–2028)* — CGPA `8.15/10`
-- ⚡ Currently interning as **Edge AI Intern** @ Trilo Automation Pvt. Ltd.
+- 🎓 Integrated M.Tech in **Artificial Intelligence** @ VIT Bhopal *(2023–2028)*
+- ⚡ former intern as **Edge AI Intern** @ Trilo Automation Pvt. Ltd.
 - 🔩 Obsessed with squeezing LLMs and vision models onto tiny, offline hardware
 - 🩻 Working across **Computer Vision, OCR, Deep Learning & Embedded AI**
 - 🌱 Exploring **Cloud (AWS)** and **MLOps** to take edge projects full-stack
